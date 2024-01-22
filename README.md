@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**emmalevesque/emmalevesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪴 Artist, Designer & Engineer at els.studio • els.studio <br />
+🛰️ Engineer & Developer at Planetary • planetary.co
 
-Here are some ideas to get you started:
+I build websites and tools using ~ <br />
+🚀 [Sanity.io](https://sanity.io) <br />
+🔺 [Next.js](https://nextjs.org) <br />
+⚛️ [React](https://react.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in ~ <br />
+🌫️ glsl <br />
+🧶 three.js, react-three-fiber
+
+Send me a message at [emma@els.studio](mailto:emma@els.studio)
