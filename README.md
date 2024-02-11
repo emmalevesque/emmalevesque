@@ -10,5 +10,6 @@ I build websites and tools using ~ <br />
 Interested in ~ <br />
 🌫️ glsl <br />
 🧶 three.js, react-three-fiber
+🐍 python
 
 Send me a message at [emma@els.studio](mailto:emma@els.studio)
