@@ -1,5 +1,5 @@
 
-🪴 Artist, Designer & Engineer at els.studio • els.studio <br />
+🪴 Artist, Designer & Engineer at els.studio<br />
 🛰️ Engineer & Developer at Planetary • planetary.co
 
 I build websites and tools using ~ <br />
