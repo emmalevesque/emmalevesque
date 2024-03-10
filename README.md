@@ -2,7 +2,7 @@
 🪴 Artist, Designer & Engineer at els.studio<br />
 🛰️ Engineer & Developer at Planetary • planetary.co
 
-I build websites and tools using ~ <br />
+Tools I like ~ <br />
 🚀 [Sanity.io](https://sanity.io) <br />
 🔺 [Next.js](https://nextjs.org) <br />
 ⚛️ [React](https://react.dev)
