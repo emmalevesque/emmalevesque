@@ -1,6 +1,6 @@
 
 🪴 Artist, Designer & Engineer at [els.studio](https://els.studio)<br />
-🛰️ Engineer & Developer at Planetary • [planetary.co](https://planetary.co)
+🛰️ Freelance Engineer & Developer at Planetary • [planetary.co](https://planetary.co)
 
 Tools I like ~ <br />
 🚀 [Sanity.io](https://sanity.io) <br />
