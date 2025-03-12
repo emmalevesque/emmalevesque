@@ -1,8 +1,6 @@
 
-🪴 Artist, Designer & Engineer at [els.studio](https://els.studio)<br />
+🪴 Artist, Designer & Engineer at els.studio<br />
 🛰️ Freelance Engineer & Developer at Planetary • [planetary.co](https://planetary.co)<br />
-🏺 Waxer of Poetics at [emmalevesque.is](https://emmalevesque.is)
-
 Tools I like ~ <br />
 🚀 [Sanity.io](https://sanity.io) <br />
 🔺 [Next.js](https://nextjs.org) <br />
