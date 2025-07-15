@@ -1,5 +1,5 @@
 
-🪴 Artist, Designer & Engineer at els.studio<br />
+🪴 Creative Technologist in Design and Engineering
 🛰️ Freelance Engineer & Developer at Planetary • [planetary.co](https://planetary.co)<br />
 Tools I like ~ <br />
 🚀 [Sanity.io](https://sanity.io) <br />
@@ -11,4 +11,4 @@ Interested in ~ <br />
 🧶 three.js, react-three-fiber <br />
 🐍 python
 
-Send me a message at [emma@els.studio](mailto:emma@els.studio)
+Send me a message at [hi@emmalevesque.xyz](mailto:hi@emmalevesque.xyz)
