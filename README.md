@@ -1,6 +1,5 @@
 
-🪴 Creative Technologist in Design and Engineering
-Working with ~ <br />
+🪴 Designer and Engineer working with: <br />
 🚀 [Sanity.io](https://sanity.io) <br />
 ⚛️ [React](https://react.dev)
 
